@@ -52,7 +52,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2019-04-12"},
         // 刚认识
-        {"keyword": "marry_day", date: "2019-02-12"},
+        {"keyword": "acquaintance_day", date: "2019-02-12"},
       ]
     },
     {
